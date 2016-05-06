@@ -1,0 +1,10 @@
+{
+  "displayName" : "HPmgmt",
+  "author" : ["Guillaume PRIOU"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "description" : {
+    "fr" : "Remonte les modèles et adresses IP des cartes ILO ainsi que les information RAID des serveurs HP seulement",
+    "en" : "Retrieve model and IP address of ILO cards, and RAID informations (for HP servers only)"
+  }
+}
