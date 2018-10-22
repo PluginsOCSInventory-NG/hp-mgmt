@@ -1,6 +1,6 @@
 {
   "displayName" : "HPmgmt",
-  "author" : ["Guillaume PRIOU"],
+  "author" : ["Guillaume PRIOU / Olivier Birotheau / Stephane Pautrel"],
   "contributor" : [],
   "supportedAgent" : ["Windows"],
   "description" : {
