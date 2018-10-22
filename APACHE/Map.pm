@@ -1,6 +1,6 @@
 ###############################################################################
 ## OCSINVENTORY-NG
-## Copyleft Guillaume PROTET 2013
+## Copyleft Guillaume PROTET / Olivier Birotheau
 ## Web : http://www.ocsinventory-ng.org
 ##
 ## This code is open source and may be copied and modified as long as the source
