@@ -5,9 +5,9 @@
         <value>fr_FR</value>
     </hook>
     <hook type="cdentry">
-        <identifier>cd_Hpmgmt</identifier>
+        <identifier>cd_hpmgmt</identifier>
         <translation>17000</translation>
         <category>other</category>
-        <available>Hpmgmt</available>
+        <available>hpmgmt</available>
     </hook>
 </hookstore>

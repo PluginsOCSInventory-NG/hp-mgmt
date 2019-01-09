@@ -3,7 +3,7 @@
 /**
  * This function is called on installation and is used to create database schema for the plugin
  */
-function extension_install_Hpmgmt()
+function extension_install_hpmgmt()
 {
     $commonObject = new ExtensionCommon;
 
@@ -43,7 +43,7 @@ function extension_install_Hpmgmt()
 /**
  * This function is called on removal and is used to destroy database schema for the plugin
  */
-function extension_delete_Hpmgmt()
+function extension_delete_hpmgmt()
 {
     $commonObject = new ExtensionCommon;
     $commonObject -> sqlQuery("DROP TABLE `hpmgmt`;");
@@ -55,7 +55,7 @@ function extension_delete_Hpmgmt()
 /**
  * This function is called on plugin upgrade
  */
-function extension_upgrade_Hpmgmt()
+function extension_upgrade_hpmgmt()
 {
 
 }
