@@ -10,4 +10,22 @@
         <category>other</category>
         <available>hpmgmt</available>
     </hook>
+    <hook type="cdentry">
+        <identifier>cd_hpsmart</identifier>
+        <translation>17001</translation>
+        <category>other</category>
+        <available>hpsmart</available>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_hpraid</identifier>
+        <translation>17002</translation>
+        <category>other</category>
+        <available>hpraid</available>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_hpdisk</identifier>
+        <translation>17003</translation>
+        <category>other</category>
+        <available>hpdisk</available>
+    </hook>
 </hookstore>
