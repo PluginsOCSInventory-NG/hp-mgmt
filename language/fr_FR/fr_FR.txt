@@ -1,1 +1,4 @@
 17000 HP mgmt
+17001 HP Smart
+17002 HP Raid
+17003 HP Disk
